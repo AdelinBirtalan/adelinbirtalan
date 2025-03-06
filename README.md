@@ -8,7 +8,6 @@ Hi, I'm Adelin, a dedicated front-end web developer with a passion for crafting 
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [adelinbirtalan3@gmail.com](mailto:adelinbirtalan3@gmail.com)
-* 🚀  I'm currently working on [Carverly](http://carverly.netlify.app/)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 
